@@ -11,7 +11,6 @@ After getting the dominant colours we represented the whole original image with 
 Outcome: The resultant image was represented from the original image.
 
 ![Alt text](https://user-images.githubusercontent.com/68651621/88191158-a8bef100-cc2a-11ea-9b7e-46ac252871e8.png?raw=true "Title")
-Dominant Colours of the image
 ![Alt text](https://user-images.githubusercontent.com/68651621/88191168-abb9e180-cc2a-11ea-894f-461ad4f0a3bd.png?raw=true "Title")
 ![Alt text](https://user-images.githubusercontent.com/68651621/88191172-ac527800-cc2a-11ea-9a48-aa4e446fc2fd.png?raw=true "Title")
 
